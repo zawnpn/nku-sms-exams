@@ -2,17 +2,17 @@
 
 `nku-sms-exams`是由南开大学数学系的同学们共同维护的历年考试试卷汇总项目，致力于帮助大家对过往考试的了解，此外对于喜爱数学学科的其他同学也有练习的价值。我们希望能够将这一项目持续维护并不断更新下去！
 
-目前，`nku-sms-exams`主要整理收录在网页：[https://zhangwp.com/share/nku-sms-exams](https://zhangwp.com/share/nku-sms-exams) 以方便大家随时浏览。同时为了更公开透明地维护和更新大家贡献的试卷，也同步开源至GitHub：[https://github.com/zawnpn/nku-sms-exams](https://github.com/zawnpn/nku-sms-exams)，我们鼓励有能力的同学通过提交GitHub PR的方式来投稿试卷，同时也仍然支持过去邮件投稿的方式，再次感谢各位分享者的贡献！
+`nku-sms-exams`主要整理收录在网页：[https://zhangwp.com/share/nku-sms-exams](https://zhangwp.com/share/nku-sms-exams) 以方便大家随时浏览。此外为了更公开透明地维护和更新大家贡献的试卷，也同步开源至 GitHub：[https://github.com/zawnpn/nku-sms-exams](https://github.com/zawnpn/nku-sms-exams)。我们鼓励有能力的同学通过提交 GitHub PR 的方式来投稿试卷，同时也仍支持过去邮件投稿的方式。再次感谢各位分享者的贡献！
 
 - 邮件投稿请邮件联系：[wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)。
-- 如需在页末的 Contribution List 中增添你的名称，请在来稿邮件中备注。（如果你是通过 GitHub PR 投稿，可以直接在提交PR时修改`README.md`即可）
+- 如需在页末的 Contribution List 中增添你的名称，请在来稿邮件中备注。（如果你是通过 GitHub PR 投稿，直接在提交 PR 时修改`README.md`即可）
 - 目前来稿分类繁多，对于 2022 年以后的来稿不再做细致的归类，按年份进行汇总。
 - 如果相关资料侵犯了你的权益，请致信 [wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)，我们会在第一时间处理。
 - 如无特别注明，由分享者编写、演绎的部分使用知识共享许可协议 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，其余部分的版权归属于内容原作者。
 
 ### 汇总（2025）
 
-> [[PDF]2024-2025大类数理方程期末测试卷](files/new-exams/2025/2024-2025大类数理方程期末测试卷.pdf)
+> [[PDF]2024-2025大类数理方程期末测试卷](./exams/2025/2024-2025大类数理方程期末测试卷.pdf)
 
 ### 汇总（2024）
 
