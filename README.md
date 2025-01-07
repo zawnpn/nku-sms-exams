@@ -1,16 +1,22 @@
 # NKU SMS Exams
 
-`nku-sms-exams`是由南开大学的众多同学们共同维护的历年数学及相关学科考试试卷汇总项目，主要整理收录在网页：[https://zhangwp.com/share/nku-sms-exams](https://zhangwp.com/share/nku-sms-exams) 以方便大家随时浏览。此外也同步开源至[GitHub](https://github.com/zawnpn/nku-sms-exams)，现在可通过提交 [GitHub PR](https://github.com/zawnpn/nku-sms-exams/pulls) 的方式来投稿试卷，同时仍支持过去邮件投稿的方式。
+`nku-sms-exams`是由南开大学的众多同学们共同维护的历年数学及相关学科考试试卷汇总项目，主要整理收录在网页：[https://zhangwp.com/share/nku-sms-exams](https://zhangwp.com/share/nku-sms-exams) 以方便大家随时浏览。此外也同步开源至 [GitHub](https://github.com/zawnpn/nku-sms-exams)，熟悉 GitHub 的同学可通过 [Pull Request](https://github.com/zawnpn/nku-sms-exams/pulls) 来投稿试卷，同时仍支持过去邮件投稿的方式。
 
 - 邮件投稿请邮件联系：[wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)。
-- 如需在页末的 Contribution List 中增添你的名称，请在来稿邮件中备注。再次感谢各位分享者的贡献！（如果是通过 GitHub PR 投稿，直接在提交 PR 时修改仓库中的`README.md`即可）
+- 如需在页末的 Contribution List 中增添你的名称，请在来稿邮件中备注。再次感谢各位分享者的贡献！（如果是通过 Pull Request 投稿，直接在提交 PR 时修改仓库中的`README.md`即可）
 - 目前来稿分类繁多，对于 2022 年以后的来稿不再做细致的归类，按年份进行汇总。
 - 如果相关资料侵犯了你的权益，请致信 [wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)，我们会在第一时间处理。
-- 如无特别注明，由分享者编写、演绎的部分使用知识共享许可协议 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，其余部分的版权归属于内容原作者。
+- 如无特别注明，由分享者编写、演绎的部分使用知识共享许可协议 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，其余部分版权归属内容原作者。
 
 ### 汇总（2025）
 
 > [[PDF]2024-2025大类数理方程期末测试卷](./exams/2025/2024-2025大类数理方程期末测试卷.pdf)
+>
+> [[PDF]2024秋动力系统导论_1_期末考试回忆版](./exams/2025/2024秋动力系统导论_1_期末考试回忆版.pdf)
+>
+> [[PDF]2024_2025秋季学期省身班数学分析3期末考试题](./exams/2025/2024_2025秋季学期省身班数学分析3期末考试题.pdf)
+>
+> [[PDF]2024-2025第一学期动力系统导论I_B卷](./exams/2025/2024-2025第一学期动力系统导论I_B卷.pdf)
 
 ### 汇总（2024）
 
@@ -510,6 +516,6 @@
 ### Contribution List
 
 [叶志强](https://www.notion.so/Quicy-05360992193e48e3b605f36c1fd6ff98)、颜瑞民、[张万鹏](https://zhangwp.com)、张绰棋、曾语晨、胡尽涵、吴诗童、[吕之豪](https://www.alexhaoge.xyz)、于飞洋、TYC、徐一川、邓哲、苏园茗、李雨谦、
-王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、匿名（17 级数理双修、19 级数院）
+王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、lyl、匿名（17 级数理双修、19 级数院）
 
 （*以上排名不分先后*）
