@@ -2,7 +2,7 @@
 
 `nku-sms-exams`是由南开大学的众多同学们共同维护的历年数学及相关学科考试试卷汇总项目，主要整理收录在网页：[https://zhangwp.com/share/nku-sms-exams](https://zhangwp.com/share/nku-sms-exams) 以方便大家随时浏览。此外也同步开源至 [GitHub](https://github.com/zawnpn/nku-sms-exams)，熟悉 GitHub 的同学可通过 [Pull Request](https://github.com/zawnpn/nku-sms-exams/pulls) 来投稿试卷，同时仍支持过去邮件投稿的方式。
 
-- 邮件投稿请邮件联系：[wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)。
+- 邮件投稿请邮件联系：[wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)
 - 如需在页末的 Contribution List 中增添你的名称，请在来稿邮件中备注。再次感谢各位分享者的贡献！（如果是通过 Pull Request 投稿，直接在提交 PR 时修改仓库中的`README.md`即可）
 - 目前来稿分类繁多，对于 2022 年以后的来稿不再做细致的归类，按年份进行汇总。
 - 如果相关资料侵犯了你的权益，请致信 [wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)，我们会在第一时间处理。
@@ -12,7 +12,7 @@
 
 > [[PDF]2024-2025大类数理方程期末测试卷](./exams/2025/2024-2025大类数理方程期末测试卷.pdf)
 >
-> [[PDF]2024秋动力系统导论_1_期末考试回忆版](./exams/2025/2024秋动力系统导论_1_期末考试回忆版.pdf)
+> [[PDF]2024秋动力系统导论1期末考试回忆版](./exams/2025/2024秋动力系统导论1期末考试回忆版.pdf)
 >
 > [[PDF]2024_2025秋季学期省身班数学分析3期末考试题](./exams/2025/2024_2025秋季学期省身班数学分析3期末考试题.pdf)
 >
