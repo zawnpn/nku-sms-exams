@@ -8,6 +8,12 @@
 - 如果相关资料侵犯了你的权益，请致信 [wpzhang.edu@gmail.com](mailto:wpzhang.edu@gmail.com)，我们会在第一时间处理。
 - 如无特别注明，由分享者编写、演绎的部分使用知识共享许可协议 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，其余部分版权归属内容原作者。
 
+
+
+### 汇总（2026）
+
+> [[PDF]2025-2026学年大类泛函分析期末测试](./exams/2026/2025-2026学年大类泛函分析期末测试.pdf)
+
 ### 汇总（2025）
 
 > [[PDF]2024-2025大类数理方程期末测试卷](./exams/2025/2024-2025大类数理方程期末测试卷.pdf)
@@ -628,6 +634,6 @@
 ### Contribution List
 
 [叶志强](https://www.notion.so/Quicy-05360992193e48e3b605f36c1fd6ff98)、颜瑞民、[张万鹏](https://zhangwp.com)、张绰棋、曾语晨、胡尽涵、吴诗童、[吕之豪](https://www.alexhaoge.xyz)、于飞洋、TYC、徐一川、邓哲、苏园茗、李雨谦、
-王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、lyl、刘易扬、古润驰、苏岳、叶吉兆、曾仕杰、匿名（17 级数理双修、19 级数院）、暁月、Cecilia
+王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、lyl、刘易扬、古润驰、苏岳、叶吉兆、曾仕杰、匿名（17 级数理双修、19 级数院）、暁月、Cecilia、Eurekaimer
 
 （*以上排名不分先后*）
