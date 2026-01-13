@@ -636,6 +636,6 @@
 ### Contribution List
 
 [叶志强](https://www.notion.so/Quicy-05360992193e48e3b605f36c1fd6ff98)、颜瑞民、[张万鹏](https://zhangwp.com)、张绰棋、曾语晨、胡尽涵、吴诗童、[吕之豪](https://www.alexhaoge.xyz)、于飞洋、TYC、徐一川、邓哲、苏园茗、李雨谦、
-王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、lyl、刘易扬、古润驰、苏岳、叶吉兆、曾仕杰、匿名（17 级数理双修、19 级数院）、暁月、Cecilia、Eurekaimer
+王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、lyl、刘易扬、古润驰、苏岳、叶吉兆、曾仕杰、匿名（17 级数理双修、19 级数院）、暁月、Cecilia、Eurekaimer、Ingrid-505
 
 （*以上排名不分先后*）
