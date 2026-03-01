@@ -76,9 +76,9 @@
 >
 >  [[PDF]20级ode动态进出考试](./exams/2026/20级ode动态进出.pdf)
 >
->  [[PDF]24级抽代1动态进出考试](./exams/2026/2026algebra.pdf)
+>  [[PDF]24级抽代1动态进出考试](./exams/2026/26algebra.pdf)
 >
->  [[PDF]24级复变动态进出考试](./exams/2026/2026complex.pdf)
+>  [[PDF]24级复变动态进出考试](./exams/2026/26complex.pdf)
 >
 >  [[PDF]24级数分3动态进出考试](./exams/2026/2026anl.pdf)
 > 
