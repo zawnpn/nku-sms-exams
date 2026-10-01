@@ -35,3 +35,34 @@ chosen commit and run the link check. Recover the Quartz/Vault version reference
 separately to reproduce the published site. No dependency directory or build
 output needs backup. Check Codespaces authorization and billing before creating
 a cloud workspace; retain commits before disposing of that workspace.
+
+## Resource limits and manual lifecycle
+
+Create from the reviewed maintenance branch with the smallest machine:
+
+```bash
+gh codespace create --repo zawnpn/nku-sms-exams --branch codex/cloud-maintenance --machine basicLinux32gb --idle-timeout 5m
+```
+
+GitHub currently allows 5–240 minutes, so the requested 3-minute idle timeout
+is unavailable. Use 5 minutes for new maintenance environments. The public REST
+update endpoint cannot change an existing environment's idle timeout; stop older
+environments explicitly after use instead of treating an ignored update as success.
+Keep the account Codespaces budget at $0 with **Stop usage** enabled and check
+remaining included compute and storage before creating an environment. Stopped
+environments retain storage usage; preserve commits and independent backups
+before any later deletion or configured retention expiry.
+
+```bash
+gh codespace list
+gh codespace stop --codespace <name>
+gh api --method POST user/codespaces/<name>/start
+gh codespace ssh --codespace <name>
+```
+
+The official SSH feature is included in the container. After connecting, change
+to `/workspaces/<repository-name>` and run this guide's build and preview commands.
+A stopped preview must be restarted; opening its workspace in the browser also
+starts the environment. Keep every preview port **Private**. Never copy GitHub
+tokens into the workspace to repair a Git credential problem; use the platform's
+normal repository credential integration and the Codespaces browser terminal.
