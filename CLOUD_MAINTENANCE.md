@@ -1,5 +1,10 @@
 # Cloud maintenance and manual recovery
 
+**Temporary acceptance environments use a 5-minute idle timeout and a 24-hour
+retention period after stopping. Automatic deletion includes unpushed changes.
+Preserve authorized unique source changes in Git and original submission backups
+independently before stopping; the cloud disk is not their only recovery source.**
+
 This is a materials repository. It has no application build, production server or
 standalone website deployment. GitHub, a dev container, or an ordinary terminal
 can maintain it without OpenAI dot.
@@ -41,7 +46,7 @@ a cloud workspace; retain commits before disposing of that workspace.
 Create from the reviewed maintenance branch with the smallest machine:
 
 ```bash
-gh codespace create --repo zawnpn/nku-sms-exams --branch codex/cloud-maintenance --machine basicLinux32gb --idle-timeout 5m
+gh codespace create --repo zawnpn/nku-sms-exams --branch codex/cloud-maintenance --machine basicLinux32gb --idle-timeout 5m --retention-period 24h
 ```
 
 GitHub currently allows 5–240 minutes, so the requested 3-minute idle timeout
@@ -61,8 +66,13 @@ gh codespace ssh --codespace <name>
 ```
 
 The official SSH feature is included in the container. After connecting, change
-to `/workspaces/<repository-name>` and run this guide's build and preview commands.
-A stopped preview must be restarted; opening its workspace in the browser also
-starts the environment. Keep every preview port **Private**. Never copy GitHub
-tokens into the workspace to repair a Git credential problem; use the platform's
-normal repository credential integration and the Codespaces browser terminal.
+to `/workspaces/nku-sms-exams` and run `python3 scripts/check_materials.py`.
+This material check uses only the Python standard library. There is no application
+build or preview server to restart. Never copy GitHub tokens into the workspace
+to repair a Git credential problem; use the platform's normal repository
+credential integration and the Codespaces browser terminal.
+
+Do not extend the temporary 24-hour retention or select **Keep codespace** without
+storage and cost approval. After expiry, recreate from the reviewed branch above
+and rerun the material check. The accepted files and their release commit live in
+Git; inbox submissions and original attachments remain separate backup inputs.
