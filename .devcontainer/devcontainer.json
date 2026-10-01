@@ -1,0 +1,14 @@
+{
+  "name": "NKU SMS exams",
+  "image": "mcr.microsoft.com/devcontainers/base:bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.12"
+    },
+    "ghcr.io/devcontainers/features/sshd:1": {
+      "version": "latest"
+    }
+  },
+  "postCreateCommand": "python3 scripts/check_materials.py",
+  "remoteUser": "vscode"
+}

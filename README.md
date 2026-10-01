@@ -765,3 +765,8 @@
 王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、lyl、刘易扬、古润驰、苏岳、叶吉兆、曾仕杰、匿名（17 级数理双修、19 级数院）、暁月、Cecilia、Eurekaimer、Ingrid-505、沽上旅人、神猴仙人、洛水天依、小水滴、[Caffein3](https://github.com/Sazzzzzz)、[侯思涵 | Sihan Hou](https://hank7890.github.io/)
 
 （*以上排名不分先后*）
+
+## Cloud maintenance
+
+See [cloud development and manual recovery](CLOUD_MAINTENANCE.md) for reproducible setup, private
+preview, checks and the backup/release boundaries.
