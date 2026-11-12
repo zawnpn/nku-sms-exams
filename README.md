@@ -11,6 +11,8 @@
 
 
 ### 汇总（2026）
+> [[PDF]2026-2027学年伯苓班数学分析III期中考试](./exams/2026/2026-2027学年伯苓班数学分析III期中考试.pdf)
+>
 > [[PDF]高概第一次月考回忆版](./exams/2026/高概第一次月考回忆版.pdf)
 >
 > [[PDF]2026伯苓动态进出高代试题回忆](./exams/2026/2026伯苓动态进出高代试题回忆.pdf)
@@ -764,7 +766,7 @@
 ### Contribution List
 
 [叶志强](https://www.notion.so/Quicy-05360992193e48e3b605f36c1fd6ff98)、颜瑞民、[张万鹏](https://wanpeng.me)、张绰棋、曾语晨、胡尽涵、吴诗童、[吕之豪](https://www.alexhaoge.xyz)、于飞洋、TYC、徐一川、邓哲、苏园茗、李雨谦、
-王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、lyl、刘易扬、古润驰、苏岳、叶吉兆、曾仕杰、匿名（17 级数理双修、19 级数院）、暁月、Cecilia、Eurekaimer、Ingrid-505、沽上旅人、神猴仙人、洛水天依、小水滴、[Caffein3](https://github.com/Sazzzzzz)、[侯思涵 | Sihan Hou](https://hank7890.github.io/)
+王健禹、数院占座小分队、苏可铮、朱凯、赵维捷、刘元涛、卢铮可、祁馨仪、林王昕、cbj、氢氰酸、lyt、xzqbear、lyl、刘易扬、古润驰、苏岳、叶吉兆、曾仕杰、匿名（17 级数理双修、19 级数院）、暁月、Cecilia、Eurekaimer、Ingrid-505、沽上旅人、神猴仙人、洛水天依、小水滴、[Caffein3](https://github.com/Sazzzzzz)、[侯思涵 | Sihan Hou](https://hank7890.github.io/)、Tw1light
 
 （*以上排名不分先后*）
 
